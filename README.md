@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋
+
+![imagine](.Media/LogoTitleBackgroun1240.png)
 
 ## About
 
@@ -11,6 +13,12 @@ I am engaged in many research projects as a researcher, university teacher, and 
 I am the founder and Executive Director of CAS.
 
 My current goal is to find an opportunity to manage the research/deployment of innovative IT solutions.
+
+- 🔭 I’m currently working on **Object-oriented Internet**
+- 👯 I’m looking to collaborate on **Data Oriented Architecture**
+- 💬 Ask me about **OPC UA**, **IoT**, **Industry 4.0**, **Distributed Systems**, **Software Engineering**, **Machine to Machine Communication**
+- 📫 How to reach me: Join  [**Object-Oriented Internet Partnership Program**](https://github.commsvr.com/AboutPartnershipProgram.md.html)
+
 <!--
 **mpostol/mpostol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
