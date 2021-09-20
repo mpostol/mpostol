@@ -18,6 +18,7 @@ My current goal is to find an opportunity to manage the research/deployment of i
 - 👯 I’m looking to collaborate on **Data Oriented Architecture**
 - 💬 Ask me about **OPC UA**, **IoT**, **Industry 4.0**, **Distributed Systems**, **Software Engineering**, **Machine to Machine Communication**
 - 📫 How to reach me: Join  [**Object-Oriented Internet Partnership Program**](https://github.commsvr.com/AboutPartnershipProgram.md.html)
+- 👀 Follow me on YouTube to get more on my activity and projects currently I am working on: [Mariusz Postol Profile](https://youtu.be/YPdL0bc0Xmo)
 
 <!--
 **mpostol/mpostol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
