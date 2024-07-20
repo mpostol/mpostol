@@ -1,24 +1,29 @@
 # Hi there 👋
 
-![imagine](.Media/LogoTitleBackgroun1240.png)
+## Programming in Practice Executive Summary
+
+In this short video, I present an executive summary (3 min) of the Programming in Practice educational path. To get more, consider enrolling in [Programming in Practice - Executive Summary; free Udemy course][udemyPiPES]. This free course explains the role of [TP repository hosted on GitHub][TP] as a collection of extended examples that is a foundation for the `Programming in Practice` education path. The course is for all serious about improving the software development skills education methodology including but not limited to teachers and lecturers wanting to improve the software development skills education methodology. It is all about engineering atop University knowledge and practical experience as a foundation. Press the play button to open the video on `YouTube`.
+
+[![Programming in Practice - Executive Summary](.Media/PiPREADME.Youtube.png)](https://www.youtube.com/embed/Z0McLzBolhI)
 
 ## About
 
 I have 35+ years of experience in designing and deploying highly distributed applications having managed 100+ innovative projects for industry including aviation, heat engineering, power engineering, and mining. I am the author of the “Process Observer” concept, the architect of the CommServer™ communication software package for the management and optimization of data transfer, author and architect of the SmartFactory™ workflow management system
 
+I am engaged in many research projects as a researcher, university teacher, and scientist. I am the author of many publications, lectures, presentations, and training sessions at the Technical University of Lodz (TUL). I have a Master of Electrical Engineering from the Technical University of Lodz and a Ph.D. in Process Control Engineering and Robotics.
+
 For 14 years I have been an active member of the OPC Foundation involved in projects related to the OPC Unified Architecture design, adoption, deployment, and maintenance.
 
-I am engaged in many research projects as a researcher, university teacher, and scientist. I am the author of 40+ publications, lectures, presentations, and training sessions. I have a degree of Master's of Electrical Engineering from the Technical University of Lodz and a Ph.D. in Process Control Engineering and Robotics.
+My current goal is to spread my knowledge related to IT solutions. My mission is the education of Programming in Practice scoping on many aspects of sequential, concurrent, real-time, and distributed programming.
 
-I am the founder and Executive Director of CAS.
-
-My current goal is to find an opportunity to manage the research/deployment of innovative IT solutions.
-
-- 🔭 I’m currently working on **Object-oriented Internet**
-- 👯 I’m looking to collaborate on **Data Oriented Architecture**
-- 💬 Ask me about **OPC UA**, **IoT**, **Industry 4.0**, **Distributed Systems**, **Software Engineering**, **Machine to Machine Communication**
-- 📫 How to reach me: Join  [**Object-Oriented Internet Partnership Program**](https://github.commsvr.com/AboutPartnershipProgram.md.html)
+- 🔭 I’m currently working on **Programming in Practice**
+- 👯 I’m looking to collaborate on **External Data Management** and **Concurrent Programming**
+- 💬 Ask me about **Programming in Practice**, **Program Engineering**, **IoT**, **Industry 4.0**
+- 📫 How to reach me: watch the [**TP repository om GitHub**][TP] or visit my [ebook on **Programming in Practice**](https://mpostol.gitbook.io/pip)
 - 👀 Follow me on YouTube to get more on my activity and projects currently I am working on: [Mariusz Postol Profile](https://youtu.be/YPdL0bc0Xmo)
+
+[udemyPiPES]: https://www.udemy.com/course/pipintroduction/?referralCode=E1B8E460A82ECB36A835
+[TP]: https://github.com/mpostol/TP?tab=readme-ov-file#programming-in-practice-
 
 <!--
 **mpostol/mpostol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
