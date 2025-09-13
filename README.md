@@ -8,13 +8,15 @@ In this short video, I present an executive summary (3 min) of the Programming i
 
 ## About
 
-I have a lot of experience in designing and deploying highly distributed applications having managed 100+ innovative projects for industry including aviation, heat engineering, power engineering, and mining. I am the author of the [Object Oriented Internet][OOI] concept, the architect of the [CommServer™][csvr] communication software package for the management and optimization of data transfer, author and architect of the [SmartFactory™][SF] workflow management system and software.
+I have extensive experience in designing and deploying highly distributed applications, having managed over 100 innovative projects across various industries, including aviation, heat engineering, power engineering, and mining. I am the author of the [Object-Oriented Internet (OOI)][OOI] concept, the architect of the [CommServer™ (csvr)][csvr] communication software package for data transfer management and optimization, and the author and architect of the [SmartFactory™ (SF)][SF] workflow management system and software.
 
-I am engaged in many research projects as a researcher, university teacher, and scientist. I am the author of many publications, lectures, presentations, and training sessions at the Technical University of Lodz (TUL). I have a Master of Electrical Engineering from the Technical University of Lodz and a Ph.D. in Process Control Engineering and Robotics.
+I am actively involved in numerous research projects as a researcher, university lecturer, and scientist. I am the author of many publications, lectures, presentations, and training sessions at the Technical University of Łódź (TUL). I hold a Master’s degree in Electrical Engineering from TUL and a Ph.D. in Process Control Engineering and Robotics.
 
 For 14 years I have been an active member of the OPC Foundation involved in projects related to the OPC Unified Architecture design, adoption, deployment, and maintenance.
 
-My current goal is to spread my knowledge related to IT solutions. My mission is the education of **Programming in Practice** scoping on many aspects of sequential, concurrent, real-time, and distributed programming.
+My current goal is to share my knowledge of IT solutions.
+
+My mission is to promote Programming in Practice, focusing on various aspects of sequential, concurrent, real-time, and distributed programming.
 
 - 🔭 I’m currently working on **Programming in Practice**
 - 👯 I’m looking to collaborate on **External Data Management** and **Concurrent Programming**
